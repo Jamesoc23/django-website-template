@@ -1,2 +1,2 @@
 # django-website-template
-A multi-functional django website
+A multi-functional django website template
